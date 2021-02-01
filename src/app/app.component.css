@@ -1,0 +1,31 @@
+/* https://www.papersizes.org/a-sizes-in-pixels.htm */
+
+.editorContainerSection {
+    padding: 30px;
+    margin-bottom: 50px;    
+}
+
+.editorContainer {
+    /* overflow: auto; */
+    height: 395px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.resultContainer {
+    border: 1px solid rgb(204, 204, 204);
+    width: 76%;
+    margin: 0 auto;
+    padding:20px;
+}
+
+.resultContainerTitle {
+    width: 76%;
+    margin: 0 auto;
+}
+
+.buttonPanel {
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
